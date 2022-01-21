@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eemmmaf
 - 👀 I’m interested in web development, cooking and thaiboxing
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently studying web development at Mittuniversitetet.
 
 <!---
 eemmmaf/eemmmaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
