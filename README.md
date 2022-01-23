@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @eemmmaf
-- 👀 I’m interested in web development, cooking and thaiboxing
-- 🌱 I’m currently studying web development at Mittuniversitetet.
+Hej! :wave:
+
+Mitt namn är Emma Forslund.  
+Jag är 26 år gammal och bor i Stockholm.  
+:pencil2: Jag studerar andra terminen webbutveckling på Mittuniversitetet. 
 
 <!---
 eemmmaf/eemmmaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
