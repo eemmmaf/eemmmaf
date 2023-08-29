@@ -1,9 +1,6 @@
-Hej! :wave:
+Hi, I'm Emma! :wave:
 
-Mitt namn är Emma Forslund.  
-Jag är 27 år gammal och bor i Stockholm.  
-
-:pencil2: Jag studerar andra året webbutveckling på Mittuniversitetet. 
+Im a fullstack web developer that lives in Stockholm.
 
 
 <!---
